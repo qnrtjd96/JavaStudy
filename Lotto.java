@@ -23,7 +23,6 @@ public class Lotto {
 			
 			//변수 출력하기
 			int lotto[] = new int[7]; //0,1,2,3,4,5,6
-			lotto
 			
 			
 			//계속하시겠습니까? 출력	
